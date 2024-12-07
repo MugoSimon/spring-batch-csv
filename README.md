@@ -68,7 +68,7 @@ Configure file paths and database settings in `application.yml`:
 ```yaml
 csv:
   file:
-    path: "C:\\Users\\Simon.Wangechi\\IdeaProjects\\spring-batch-csv\\src\\main\\resources\\random_users.csv"
+    path: "...\\src\\main\\resources\\random_users.csv"
 
 spring:
   datasource:
